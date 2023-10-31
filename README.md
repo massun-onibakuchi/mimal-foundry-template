@@ -53,3 +53,7 @@ forge script script/Deploy.s.sol -f [network]
 ```
 forge script script/Deploy.s.sol -f [network] --verify --broadcast
 ```
+
+## Acknowledgements
+
+https://github.com/ZeframLou/foundry-template
